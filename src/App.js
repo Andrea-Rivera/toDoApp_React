@@ -1,5 +1,5 @@
 import "./App.css";
-import ToDoForm from "./toDoForm/ToDoForm";
+import ToDoForm from "./toDoForm";
 
 function App() {
   return (
